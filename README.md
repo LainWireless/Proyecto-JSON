@@ -1,6 +1,7 @@
 ENUNCIADOS:
 
-- Listar información: Listar las instalaciones que tiene la base.
+- Listar información: Listar el nombre de la base, su comandante, las instalaciones que tiene la base y 
+  las clases de personal que trabajan en ella.
 - Contar información: Contar cuantos tipos de vehiculos y naves hay en la base base.
 - Buscar o filtrar información: Mostrar nombre de personajes a partir de su especie (Human, Droid o Wookiee) 
   y si no es un droide filtrar la información también por género (male o female).
