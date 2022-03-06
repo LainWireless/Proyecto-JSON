@@ -8,4 +8,4 @@ ENUNCIADOS:
 - Buscar información relacionada: Busca nombre de un personaje que sea piloto y te muestra el tipo de nave, 
   el nombre de su nave y el modelo (Los pilotos disponibles son: Luke Skywalker, Wedge Antilles, Dash Rendar y Han Solo).
 - Ejercicio libre: Lista los planetas que hay para acto seguido tener que elegir uno y te muestra el clima, 
-  las clases de terreno que existen, la población, las especies que viven en él y el lenguaje que hablan.
+  las clases de terreno que existen y la población.
